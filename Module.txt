@@ -1,0 +1,13 @@
+SDA D2
+SCL  D1
+VCC 5V
+GND GND
+
+BUTTON Wemos
+SELECT    D7  
+UP        D5
+DOWN      D6 
+
+Modul RF  315/433     Wemos
+Transmitter Data   D8
+Receiver Data   D3
